@@ -1,4 +1,4 @@
-This is a prototype app that uses the Android `StepDetector` to reproduce, song after song, the one with the closest BPM to the SPM to help the user to have appropriate musing during the running experience.
+This is a prototype app that take advantage of the Android `StepDetector` to reproduce, song after song, the one with the closest BPM to the SPM to help the user to have appropriate musing during the running experience.
 
 It requires to have on the phone songs with the actual BPM as the title.
 
